@@ -24,16 +24,7 @@ export function Hero() {
           <span className="text-white font-semibold"> No physical human presence, no digital authority.</span>
         </p>
 
-        <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-20">
-          <Button size="lg" className="bg-cyan-400 text-black hover:bg-cyan-300 w-full sm:w-auto">
-            View Full Deck
-          </Button>
-          <Button size="lg" variant="outline" className="border-white/20 text-white hover:bg-white/10 w-full sm:w-auto">
-            Schedule Meeting
-          </Button>
-        </div>
-
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 max-w-5xl mx-auto mt-20">
           <Card 
             icon={<AlertTriangle className="h-6 w-6 text-red-400" />}
             title="The Entropy Gap"

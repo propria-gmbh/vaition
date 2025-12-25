@@ -13,16 +13,7 @@ export function Footer() {
             <p className="max-w-xl mx-auto text-gray-400 mb-8">
               Join us in building the ontological security layer that will define the next era of <span className="text-white">human-machine interaction</span>.
             </p>
-            <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
-              <Button size="lg" className="bg-cyan-400 text-black hover:bg-cyan-300 w-full sm:w-auto">
-                <Mail className="w-4 h-4 mr-2" />
-                Request Investor Deck
-              </Button>
-              <Button size="lg" variant="outline" className="border-white/20 text-white hover:bg-white/10 w-full sm:w-auto">
-                <Calendar className="w-4 h-4 mr-2" />
-                Schedule a Call
-              </Button>
-            </div>
+            
             <div className="mt-8 text-sm text-gray-500">
               Contact: <a href="mailto:vadim@vaition.com" className="text-cyan-400 hover:underline">vadim@vaition.com</a>
             </div>

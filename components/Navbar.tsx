@@ -15,10 +15,6 @@ export function Navbar() {
           <Link href="#technology" className="hover:text-white transition-colors">Technology</Link>
           <Link href="#team" className="hover:text-white transition-colors">Team</Link>
         </div>
-
-        <button className="bg-cyan-400 text-black px-4 py-2 rounded-md font-semibold text-sm hover:bg-cyan-300 transition-colors">
-          Contact Investors
-        </button>
       </div>
     </nav>
   );
