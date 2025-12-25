@@ -46,7 +46,7 @@ export function LayerZeroProcess() {
 
       <div className="container mx-auto px-6">
         <div className="text-center mb-20">
-          <div className="inline-block px-3 py-1 rounded-full bg-cyan-900/30 border border-cyan-500/30 text-cyan-400 text-xs font-medium mb-6">
+          <div className="inline-block px-8 py-3 rounded-full bg-cyan-900/30 border border-cyan-500/30 text-cyan-400 text-lg font-medium mb-8">
             The Breakthrough
           </div>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">

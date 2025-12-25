@@ -3,7 +3,7 @@ export function Team() {
     <section id="team" className="py-24 relative">
       <div className="container mx-auto px-6">
         <div className="text-center mb-16">
-          <div className="inline-block px-3 py-1 rounded-full bg-indigo-900/30 border border-indigo-500/30 text-indigo-400 text-xs font-medium mb-6">
+          <div className="inline-block px-8 py-3 rounded-full bg-indigo-900/30 border border-indigo-500/30 text-indigo-400 text-lg font-medium mb-8">
             Leadership
           </div>
           <h2 className="text-4xl md:text-5xl font-bold mb-6">

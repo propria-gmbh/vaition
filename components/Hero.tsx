@@ -10,8 +10,8 @@ export function Hero() {
       </div>
 
       <div className="container relative z-10 mx-auto px-6 text-center">
-        <div className="inline-flex items-center rounded-full border border-cyan-500/30 bg-cyan-500/10 px-3 py-1 text-xs font-medium text-cyan-400 mb-8">
-          <span className="flex h-2 w-2 rounded-full bg-cyan-400 mr-2 animate-pulse"></span>
+        <div className="inline-flex items-center rounded-full border border-cyan-500/30 bg-cyan-500/10 px-8 py-3 text-lg font-medium text-cyan-400 mb-8">
+          <span className="flex h-3 w-3 rounded-full bg-cyan-400 mr-3 animate-pulse"></span>
           Ontological Security Layer
         </div>
 

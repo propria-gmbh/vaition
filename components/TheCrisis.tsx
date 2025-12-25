@@ -2,7 +2,7 @@ export function TheCrisis() {
   return (
     <section id="problem" className="py-24 bg-black/50 relative">
       <div className="container mx-auto px-6 text-center">
-        <div className="inline-block px-3 py-1 rounded-full bg-red-500/10 border border-red-500/20 text-red-400 text-xs font-medium mb-6">
+        <div className="inline-block px-8 py-3 rounded-full bg-red-500/10 border border-red-500/20 text-red-400 text-lg font-medium mb-8">
           The Crisis
         </div>
         

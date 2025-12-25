@@ -51,7 +51,7 @@ export function BusinessAndAsk() {
         <div className="rounded-3xl bg-gradient-to-br from-cyan-900/10 to-black border border-cyan-500/20 p-8 md:p-12 mb-24">
           <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
             <div>
-              <div className="inline-block px-3 py-1 rounded-full bg-cyan-900/30 border border-cyan-500/30 text-cyan-400 text-xs font-medium mb-6">
+              <div className="inline-block px-8 py-3 rounded-full bg-cyan-900/30 border border-cyan-500/30 text-cyan-400 text-lg font-medium mb-8">
                 Investment Opportunity
               </div>
               <h2 className="text-4xl font-bold mb-6">
