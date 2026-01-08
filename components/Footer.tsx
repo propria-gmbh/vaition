@@ -1,6 +1,3 @@
-import { Button } from "@/components/ui/button";
-import { Mail, Calendar } from "lucide-react";
-
 export function Footer() {
   return (
     <footer className="relative pt-24 pb-12 bg-black border-t border-white/10">
