@@ -17,18 +17,18 @@ export function LayerZeroProcess() {
       align: "right"
     },
     {
-      icon: <CheckCircle2 className="w-5 h-5 text-cyan-400" />,
-      step: "STEP 3",
-      title: "Verification",
-      description: "Entropy is verified on-edge and server-side for liveness and non-simulatability.",
-      align: "left"
-    },
-    {
       icon: <Unlock className="w-5 h-5 text-green-400" />,
-      step: "STEP 4",
+      step: "STEP 3",
       title: "Gate Opens",
       description: "Only upon verification does the login interface or execution environment render.",
       align: "right"
+    },
+    {
+      icon: <CheckCircle2 className="w-5 h-5 text-cyan-400" />,
+      step: "STEP 4",
+      title: "Verification",
+      description: "Entropy is verified on-edge and server-side for liveness and non-simulatability.",
+      align: "left"
     },
     {
       icon: <LinkIcon className="w-5 h-5 text-indigo-400" />,
